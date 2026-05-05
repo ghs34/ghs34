@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gleb Sydorenko</h1>
-<h3 align="center">A computer engineering student at Universitat de Barcelona</h3>
+<h3 align="center">Data & Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
